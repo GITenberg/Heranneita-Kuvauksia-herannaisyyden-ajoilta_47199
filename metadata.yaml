@@ -1,4 +1,8 @@
 _repo: Heranneita-Kuvauksia-herannaisyyden-ajoilta_47199
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Aho, Juhani
@@ -13,6 +17,8 @@ creator:
     - http://fi.wikipedia.org/wiki/Juhani_Aho
     - http://en.wikipedia.org/wiki/Juhani_Aho
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47199#Heranneita-Kuvauksia-herannaisyyden-ajoilta
 gutenberg_issued: '2014-10-26'
 gutenberg_type: Text
 identifiers:
